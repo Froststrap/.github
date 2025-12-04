@@ -1,4 +1,11 @@
-<div style="display: flex; align-items: center; gap: 12px;">
-  <img height=100 src="../.resources/icon.png"/>
-  <span>Froststrap</span>
-</div>
+# Froststrap
+
+This is where most things to do with Froststrap is stored.
+
+## What is being stored here?
+
+Currently theres the following:
+
+- Website
+- Forked repos for use in project
+- Own crates for the Rust rewite
