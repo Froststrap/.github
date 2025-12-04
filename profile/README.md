@@ -1,3 +1,3 @@
 <div style="display: flex;">
-  <img src="./.resources/icon.png"/>
+  <img src="../.resources/icon.png"/>
 </div>
