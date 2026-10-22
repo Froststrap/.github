@@ -1,10 +1,14 @@
 # Froststrap
 
-This is where most things to do with Froststrap is stored.
+Froststrap is a multi-platform bootstrapper that is based off Fishstrap.
 
-## What is being stored here?
+## Developers
 
-Currently theres the following:
+- @RealMeddsam - Founder
+- @UltimatePlayer97 - Maintainer
+- @invra - Maintainer
 
-- Website
-- Forked repos for use in project
+## Licensing
+
+Most "native" code you will see is listed under MPL-2.0
+
